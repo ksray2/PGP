@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Professional Portfolio
 
 This site serves as a professional portfolio designed [editor on GitHub](https://github.com/ksray2/my-school-profile/edit/master/index.md) to maintain and preview the content of my achievements in Markdown files.
 
