@@ -1,8 +1,7 @@
 ## Welcome to My Professional Portfolio
 
-This site serves as a professional portfolio designed [editor on GitHub](https://github.com/ksray2/my-school-profile/edit/master/index.md) to maintain and preview the content of my achievements in Markdown files.
-
-This Github Pages repository will run [Jekyll](https://jekyllrb.com/) to rebuild the page using Markdown content.
+This site serves as a professional portfolio designed to maintain and preview the content of my achievements in Markdown files.
+[editor on GitHub](https://github.com/ksray2/my-school-profile/edit/master/index.md) This Github Pages repository will run [Jekyll](https://jekyllrb.com/) to rebuild the page using Markdown content.
 
 ### Markdown
 
